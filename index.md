@@ -12,7 +12,6 @@ Faculty, New Information and Communication Technologies<br/>
 <div id="webaddress">
   <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> wanisramdani.github.io</a> - 
   <a href="https://github.com/wanisramdani"><i class="fab fa-github"></i> wanisramdani</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
   <a href="https://twitter.com/wanis_ramdani"><i class="fab fa-twitter"></i> @wanis_ramdani</a>
 </div>
 
@@ -25,7 +24,9 @@ Faculty, New Information and Communication Technologies<br/>
 
 ## Skills
 
+
 ## Volunteers
+
 
 ## Languages
 
